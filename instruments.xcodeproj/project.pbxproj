@@ -13,6 +13,9 @@
 		C7065D411CAD4198002E4783 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C7065D3F1CAD4198002E4783 /* Main.storyboard */; };
 		C7065D431CAD4198002E4783 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C7065D421CAD4198002E4783 /* Assets.xcassets */; };
 		C7065D461CAD4198002E4783 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C7065D441CAD4198002E4783 /* LaunchScreen.storyboard */; };
+		C7065D571CAE1A4B002E4783 /* bg_authentication@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = C7065D561CAE1A4B002E4783 /* bg_authentication@2x.png */; };
+		C7065D591CAE3ECE002E4783 /* bg_blank@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = C7065D581CAE3ECE002E4783 /* bg_blank@2x.png */; };
+		C7065D5B1CAE4683002E4783 /* select_s@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = C7065D5A1CAE4683002E4783 /* select_s@2x.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +29,9 @@
 		C7065D421CAD4198002E4783 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C7065D451CAD4198002E4783 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		C7065D471CAD4198002E4783 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C7065D561CAE1A4B002E4783 /* bg_authentication@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "bg_authentication@2x.png"; sourceTree = "<group>"; };
+		C7065D581CAE3ECE002E4783 /* bg_blank@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "bg_blank@2x.png"; sourceTree = "<group>"; };
+		C7065D5A1CAE4683002E4783 /* select_s@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "select_s@2x.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +64,9 @@
 		C7065D351CAD4198002E4783 /* instruments */ = {
 			isa = PBXGroup;
 			children = (
+				C7065D5A1CAE4683002E4783 /* select_s@2x.png */,
+				C7065D581CAE3ECE002E4783 /* bg_blank@2x.png */,
+				C7065D561CAE1A4B002E4783 /* bg_authentication@2x.png */,
 				C7065D391CAD4198002E4783 /* AppDelegate.h */,
 				C7065D3A1CAD4198002E4783 /* AppDelegate.m */,
 				C7065D3C1CAD4198002E4783 /* ViewController.h */,
@@ -136,7 +145,10 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C7065D5B1CAE4683002E4783 /* select_s@2x.png in Resources */,
+				C7065D591CAE3ECE002E4783 /* bg_blank@2x.png in Resources */,
 				C7065D461CAD4198002E4783 /* LaunchScreen.storyboard in Resources */,
+				C7065D571CAE1A4B002E4783 /* bg_authentication@2x.png in Resources */,
 				C7065D431CAD4198002E4783 /* Assets.xcassets in Resources */,
 				C7065D411CAD4198002E4783 /* Main.storyboard in Resources */,
 			);
